@@ -1,6 +1,7 @@
 # Exercício 02 - Manipulação de Strings
 
 Crie um arquivo strings.js:
+
 ```
 // Exercícios de manipulação de strings
 
@@ -19,7 +20,9 @@ console.log("Comprimento do nome:", fullName.length);
 console.log("Nome em maiúsculas:", fullName.toUpperCase());
 console.log("Nome em minúsculas:", fullName.toLowerCase());
 ```
+
 Executar o arquivo no terminal:
+
 ```
 node strings.js
 ```
